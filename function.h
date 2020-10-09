@@ -2,6 +2,7 @@
 #define __FUNCTION_H__
 
 #include <stdio.h>
+#include<math.h>
 void addition();
 void subtraction();
 void multiplication();
