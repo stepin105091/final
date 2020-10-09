@@ -1,6 +1,6 @@
 #include<function.h>
 
-void add()
+void addition()
 {
     int n, total=0, i, number;
     printf("\nEnter the number of elements you want to add:");
@@ -15,7 +15,7 @@ void add()
     printf("Sum of %d numbers = %d \n",n,total);
 }
  
-void sub()
+void subtraction()
 { 
     int a,b,c; 
     printf("\nPlease enter first number  : "); 
@@ -26,7 +26,7 @@ void sub()
     printf("\n%d - %d = %d\n", a, b, c); 
 }
  
-void mul()
+void multiplication()
 {
     inta,b, mul=0; 
     printf("\nPlease enter first numb   : "); 
@@ -37,7 +37,7 @@ void mul()
     printf("\nMultiplication of entered numbers = %d\n",mul);
 }
  
-void div()
+void division()
 {
     int a, b, d=0; 
     printf("\nPlease enter first number  : "); 
