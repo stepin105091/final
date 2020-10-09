@@ -1,4 +1,6 @@
 #include<function.h>
+#include<stdio.h>
+#include<math.h>
 
 void addition()
 {
