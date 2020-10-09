@@ -2,6 +2,7 @@
 #include <CUnit/CUnit.h>
 
 #include <function.h>
+#include<math.h>
 #include <string.h>
 #define PROJECT_NAME "Function"
 
