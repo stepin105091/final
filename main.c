@@ -40,6 +40,7 @@ int main()
 
 
             default : system("cls");
+                       break;
 
     printf("\n**********You have entered unavailable option");
    
