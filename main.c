@@ -2,24 +2,23 @@
 
 int main()
 {
-    int X=1;
-    char Calc_oprn;
+    
+    char key;
 
 
     // Function call
     //calculator_operations();
 
 
-    while(X)
-    {
-        printf("\n");
-        //printf("%s : ", KEY);
-        printf("enter the operation: ");
+    
+        //printf("\n");
+        scanf("%s : ", &key);
+        //printf("enter the operation: ");
 
 
-        Calc_oprn=getche();
+        //Calc_oprn=getche();
 
-        switch(Calc_oprn)
+        switch(key)
         {
             case '+': addition();
                       break;
@@ -47,5 +46,5 @@ int main()
 
         }
     }
-}
+
 
