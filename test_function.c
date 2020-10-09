@@ -2,9 +2,8 @@
 #include <CUnit/CUnit.h>
 
 #include <function.h>
-#include<math.h>
-#include <string.h>
-#define PROJECT_NAME "Function"
+
+#define PROJECT_NAME "function"
 
 /* Prototypes for all the test functions */
 void test_multiplication(void);
