@@ -1,6 +1,6 @@
 #include<function.h>
 
-int main(void)
+int main()
 {
     
     char key;
